@@ -12,9 +12,7 @@ Bu proje, kullanıcılara rastgele sorular sunan ve doğru cevaplara göre puanl
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+- -Flutter
 
 ## 🔧 Kurulum ve Kullanım
 
