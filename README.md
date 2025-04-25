@@ -14,18 +14,14 @@ Bu proje, kullanıcılara rastgele sorular sunan ve doğru cevaplara göre puanl
 
 - -Flutter
 
-## 🔧 Kurulum ve Kullanım
-
-1. Reposu klonlayın:
+ 🔧 Kurulum ve Kullanım
+ Reposu klonlayın:
 
 ```bash
 git clone https://github.com/safaibrahim9/Quiz-App.git
 
 🧩 Gelecek Planları
 🔢 Soru havuzunu genişletmek
-
 🎨 Tema desteği (karanlık mod vb.)
-
 📱 Mobil uyumluluk iyileştirmeleri
-
 📁 Soru ekleme sistemi (JSON veya dış API ile)
