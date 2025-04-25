@@ -19,3 +19,8 @@ Bu proje, kullanıcılara rastgele sorular sunan ve doğru cevaplara göre puanl
 ```bash
 git clone https://github.com/safaibrahim9/Quiz-App.git
 
+## Gelecek Planları
+🔢 Soru havuzunu genişletmek
+🎨 Tema desteği (karanlık mod vb.)
+📱 Mobil uyumluluk iyileştirmeleri
+📁 Soru ekleme sistemi (JSON veya dış API ile)
